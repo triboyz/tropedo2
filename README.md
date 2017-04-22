@@ -1,0 +1,2 @@
+# verseny
+csapatnev: triboyz
